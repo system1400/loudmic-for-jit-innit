@@ -1,0 +1,6 @@
+Preamp: 20 dB
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBOaWNlIFZvY2FsAAAAAAAAAAAAAAAAAEMAAAAAAAAAAM3MLD8fhas+16OwPpqZmT4="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBTd2VldCBWb2NhbABBeic34d9++23C8iKynr3hAAAAAAAAID/NzCw/AAAAP83MzD4="
+Copy: L=L+R R=L+R
+
+^^ paste this in the program after launching it
