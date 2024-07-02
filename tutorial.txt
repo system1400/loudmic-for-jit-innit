@@ -1,0 +1,13 @@
+ok so what to do:
+
+1. download the installer i linked
+2. open it
+3. press next
+4. press agree
+5. on the install location page, first go to the C: drive and then make a folder called APO
+6. select that folder for the install location
+7. press next
+8. press install 
+9. in configurator, go to "capture devices" and select your mic
+10. press "OK"
+11. open it
